@@ -1,0 +1,61 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MasterConsole - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\jR\LOCALS~1\Temp\RSPF.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/RobuSim.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\archive programmation\RobuSim\logPAD.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\jR\LOCALS~1\Temp\RSPF.tmp" 
+Creating temporary file "C:\DOCUME~1\jR\LOCALS~1\Temp\RSP10.tmp" with contents
+[
+dxguid.lib ddraw.lib dsound.lib dinput.lib wsock32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/RobuSim.pdb" /debug /machine:I386 /out:"Debug/RobuSim.exe" /pdbtype:sept 
+".\Debug\automatic.obj"
+".\Debug\Captors.obj"
+".\Debug\Console.obj"
+".\Debug\KID.obj"
+".\Debug\LCD.obj"
+".\Debug\Main.obj"
+".\Debug\map.obj"
+".\Debug\menu.obj"
+".\Debug\robus.obj"
+".\Debug\SDK_dx.obj"
+".\Debug\res1.res"
+".\Debug\logPAD.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\jR\LOCALS~1\Temp\RSP10.tmp"
+<h3>Output Window</h3>
+Compiling...
+logPAD.cpp
+e:\archive programmation\robusim\logpad.cpp(260) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+Linking...
+Creating temporary file "C:\DOCUME~1\jR\LOCALS~1\Temp\RSP12.tmp" with contents
+[
+/nologo /o"Debug/RobuSim.bsc" 
+".\Debug\automatic.sbr"
+".\Debug\Captors.sbr"
+".\Debug\Console.sbr"
+".\Debug\KID.sbr"
+".\Debug\LCD.sbr"
+".\Debug\Main.sbr"
+".\Debug\map.sbr"
+".\Debug\menu.sbr"
+".\Debug\robus.sbr"
+".\Debug\SDK_dx.sbr"
+".\Debug\logPAD.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\jR\LOCALS~1\Temp\RSP12.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+RobuSim.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

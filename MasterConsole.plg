@@ -1,0 +1,115 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MasterConsole - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "c:\windows\TEMP\RSPC2A2.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/MasterConsole.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp"
+]
+Creating command line "cl.exe @c:\windows\TEMP\RSPC2A2.TMP" 
+Creating temporary file "c:\windows\TEMP\RSPC2A3.TMP" with contents
+[
+dxguid.lib ddraw.lib dsound.lib dinput.lib wsock32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/MasterConsole.pdb" /debug /machine:I386 /out:"Debug/MasterConsole.exe" /pdbtype:sept 
+".\Debug\automatic.obj"
+".\Debug\map.obj"
+".\Debug\MasterConsole.obj"
+".\Debug\MasterMain.obj"
+".\Debug\Masterx.obj"
+".\Debug\robus.obj"
+]
+Creating command line "link.exe @c:\windows\TEMP\RSPC2A3.TMP"
+<h3>Output Window</h3>
+Compiling...
+automatic.cpp
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(145) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(158) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(159) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(159) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(160) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(182) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(182) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(186) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(187) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(187) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(190) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(190) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(191) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(203) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(216) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(217) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(217) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(218) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(240) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(240) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(244) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(245) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(245) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(248) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(248) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(249) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(263) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(265) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(282) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(283) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(389) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(390) : warning C4305: '+=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(403) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(406) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(415) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(418) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(456) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(459) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(468) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(471) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(494) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(497) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(536) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(539) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(548) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(551) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(576) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(579) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(588) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(591) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(615) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(618) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(627) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(630) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(655) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(658) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(667) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(670) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(694) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(697) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(706) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(709) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(734) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(737) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(746) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(749) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(774) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(777) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(786) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(789) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(840) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(843) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(852) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(855) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(890) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(891) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(964) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Mes documents\C++ source codes\Masterconsole\automatic.cpp(964) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+MasterConsole.exe - 0 error(s), 78 warning(s)
+</pre>
+</body>
+</html>
